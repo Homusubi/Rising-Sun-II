@@ -1,0 +1,335 @@
+<GameData>
+	<LocalizedText>
+	
+		<!--Civilization Tags-->
+		<Replace Tag="LOC_CIVILIZATION_KOSHIN_NAME" Language="en_US">
+			<Text>Koshin</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KOSHIN_DESCRIPTION" Language="en_US">
+			<Text>Koshin Kingdom</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KOSHIN_ADJECTIVE" Language="en_US">
+			<Text>Koshin</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_KOSHIN_LOCATION" Language="en_US">
+			<Text>Japan</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_KOSHIN_SIZE" Language="en_US">
+			<Text>PLACEHOLDER</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_KOSHIN_POPULATION" Language="en_US">
+			<Text>PLACEHOLDER</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_KOSHIN_CAPITAL" Language="en_US">
+			<Text>Kofu</Text>
+		</Replace>
+		
+		<!--Leader Tags-->
+		<Replace Tag="LOC_LEADER_SHINGEN_NAME" Language="en_US">
+			<Text>Takeda Shingen</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHINGEN_QUOTE" Language="en_US">
+			<Text>The great mountains of your home beckon to you, Lord Harunobu, ruler of the proud Takeda. Your people may be rightly known for their skill when in the saddle, but every man in Japan’s heartland fears the Takeda for their unarmed lethality and effective domain control in equal measure. Take on the mantle of Shingen, O great daimyo, and be as the wind, as a forest, as fire, and as a mountain.</Text>
+		</Replace>
+		
+		<!--Trait Tags-->
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_FURINKAZAN_NAME" Language="en_US">
+			<Text>Furinkazan</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_FURINKAZAN_DESCRIPTION" Language="en_US">
+			<Text>Cavalry ignores Hill terrain cost and Mine improvements provide +1 [ICON_Gold] Gold per adjacent Mine.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_NANSHOKU_NO_KATA_NAME" Language="en_US">
+			<Text>Nanshoku no Kata</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_NANSHOKU_NO_KATA_DESCRIPTION" Language="en_US">
+			<Text>Units adjacent to other Takeda units heal 5 points per turn per adjacent military unit and Great General.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_AKAZONAE_NAME" Language="en_US">
+			<Text>Akazonae</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_AKAZONAE_DESCRIPTION" Language="en_US">
+			<Text>PLACEHOLDER</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_NOROSHI_NAME" Language="en_US">
+			<Text>Noroshi</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_NOROSHI_DESCRIPTION" Language="en_US">
+			<Text>PLACEHOLDER</Text>
+		</Replace>
+		
+		<!--Modifier Tags-->
+		<Replace Tag="LOC_ABILITY_TAKEDA_NAME" Language="en_US">
+			<Text>Nanshoku no Kata</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TAKEDA_DESCRIPTION" Language="en_US">
+			<Text>Units adjacent to other Takeda units heal 5 points per turn per adjacent unit and Takeda Great General</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TAKEDA_MODIFIER_DESCRIPTION" Language="en_US">
+			<Text>+5 healing per turn per adjacent friendly unit.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_FURINKAZAN_NAME" Language="en_US">
+			<Text>Furinkazan</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_FURINKAZAN_DESCRIPTION" Language="en_US">
+			<Text>Ignore movement penalty from Hills.</Text>
+		</Replace>
+		
+		<!--City Tags-->
+		<Replace Tag="LOC_CITY_NAME_KOFU" Language="en_US">
+			<Text>Kofu</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FUKASHI" Language="en_US">
+			<Text>Fukashi</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TAKATO" Language="en_US">
+			<Text>Takato</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ZENKOJI" Language="en_US">
+			<Text>Zenkoju</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TENMOKU" Language="en_US">
+			<Text>Tenmoku</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KAWANAKAJIMA" Language="en_US">
+			<Text>Kawanakajima</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_INA" Language="en_US">
+			<Text>Ina</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SAKU" Language="en_US">
+			<Text>Saku</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KISOFUKUSHIMA" Language="en_US">
+			<Text>Kisofukushima</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FUEFUKI" Language="en_US">
+			<Text>Fuefuki</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KUWABARA" Language="en_US">
+			<Text>Kuwabara</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_YOSHIOKA" Language="en_US">
+			<Text>Yoshioka</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TSUMAGO" Language="en_US">
+			<Text>Tsumago</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SHIOJIRI" Language="en_US">
+			<Text>Shiojiri</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MAGOME" Language="en_US">
+			<Text>Magome</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FUJIYOSHIDA" Language="en_US">
+			<Text>Fujiyoshida</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TAKASHIMA" Language="en_US">
+			<Text>Takashima</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOISHI" Language="en_US">
+			<Text>Toishi</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ANKOKUJI" Language="en_US">
+			<Text>Ankokuji</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ODAIHARA" Language="en_US">
+			<Text>Odaihara</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MATSUO" Language="en_US">
+			<Text>Matsuo</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KANNOMINE" Language="en_US">
+			<Text>Kannomine</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KOJINYAMA" Language="en_US">
+			<Text>Kojinyama</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FUKUYO" Language="en_US">
+			<Text>Fukuyo</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_UEHARA" Language="en_US">
+			<Text>Uehara</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SHIKA" Language="en_US">
+			<Text>Shika</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NAGAKUBO" Language="en_US">
+			<Text>Nagakubo</Text>
+		</Replace>
+		
+		<!--Citizen Tags-->
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MALE_1" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MALE_2" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MALE_3" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MALE_4" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MALE_5" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MALE_6" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MALE_7" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MALE_8" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MALE_9" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MALE_10" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_FEMALE_1" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_FEMALE_2" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_FEMALE_3" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_FEMALE_4" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_FEMALE_5" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_FEMALE_6" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_FEMALE_7" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_FEMALE_8" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_FEMALE_9" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_FEMALE_10" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_MALE_1" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_MALE_2" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_MALE_3" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_MALE_4" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_MALE_5" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_MALE_6" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_MALE_7" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_MALE_8" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_MALE_9" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_MALE_10" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_1" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_2" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_3" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_4" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_5" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_6" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_7" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_8" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_9" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_10" Language="en_US">
+			<Text></Text>
+		</Replace>
+		
+		<!--Diplomacy Tags-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SHINGEN_ANY" Language="en_US">
+            <Text>Ah, this is a good day! I look forward to the day when we ride together out from the mountains.</Text>
+		</Replace>
+        <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SHINGEN_ANY" Language="en_US"> 
+            <Text>Hmm… No, this will not do. Apologies.</Text>
+		</Replace>
+        <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SHINGEN_ANY" Language="en_US"> 
+            <Text>We should declare our friendship to all the other powers in this world. There is no reason for the Takeda to fight you.</Text>
+		</Replace>
+        <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SHINGEN_ANY" Language="en_US"> 
+            <Text>Many thanks for your acceptance! Perhaps we can continue making arrangements elsewhere?</Text>
+		</Replace>
+        <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SHINGEN_ANY" Language="en_US"> 
+            <Text>Ah… Perhaps it was just my fevered hope.</Text>
+		</Replace>       
+        <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SHINGEN_ANY" Language="en_US"> 
+            <Text>I am afraid that there can only be one victor in this age of warring states. That victor will be the Takeda, and I must make sure of it.</Text>
+		</Replace>       
+        <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SHINGEN_ANY" Language="en_US"> 
+            <Text>Your lands will make a fine addition to the Takeda empire, like Shinano before you.</Text>
+		</Replace>      
+        <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SHINGEN_ANY" Language="en_US"> 
+            <Text>I leave my relatives in control of my armies for one second, and this happens? I should have known better. You deserve your victory.</Text>
+		</Replace>       
+        <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SHINGEN_ANY" Language="en_US"> 
+            <Text>We accept your delegation. I shall send some of my men out to guide them through the mountain passes.</Text>
+		</Replace>        
+        <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SHINGEN_ANY" Language="en_US"> 
+            <Text>What, and give you the secrets of the arts of the Takeda warriors? You must be joking.</Text>
+		</Replace>       
+        <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SHINGEN_ANY" Language="en_US"> 
+            <Text>It is hard to grow rice in our lands, so we cannot send as rich a gift as others might. But, please accept this hoto and soba, and our delegation with it.</Text>
+		</Replace>        
+        <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SHINGEN_ANY" Language="en_US"> 
+            <Text>You are nothing but an errant estate owner in the way of the Takeda.</Text>
+		</Replace>        
+        <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SHINGEN_ANY" Language="en_US"> 
+            <Text>What is it this time? Just because you have a coastline doesn’t mean you’re a match for the Takeda.</Text>
+		</Replace>       
+        <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_SHINGEN_ANY" Language="en_US"> 
+            <Text>The people of Kai and Shinano welcome you, stranger. I am Daimyo Takeda Shingen, ruler of all under Mount Fuji. Tell me, which lands are yours?</Text>
+		</Replace>       
+        <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SHINGEN_ANY" Language="en_US"> 
+            <Text>Please, come with me to Kai! We have mANY" Language="en_US"> wonderful hot springs hidden away in our mountains.</Text>
+		</Replace>        
+        <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SHINGEN_ANY" Language="en_US"> 
+            <Text>You have our thanks.</Text>
+		</Replace>
+		
+	</LocalizedText>
+</GameData>

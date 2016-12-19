@@ -1,0 +1,346 @@
+<!-- KOSHIN CIVILIZATION DATA -->
+<!-- created 19 Dec 2016 by thecrazyscotsman -->
+
+<GameInfo>
+	<Types>
+		<Row Type="CIVILIZATION_KOSHIN" Kind="KIND_CIVILIZATION"/>
+		<Row Type="LEADER_SHINGEN" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_CIVILIZATION_FURINKAZAN" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_LEADER_NANSHOKU_NO_KATA" Kind="KIND_TRAIT"/>
+		<Row Type="ABILITY_FURINKAZAN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_NANSHOKU" Kind="KIND_ABILITY"/>
+	</Types>
+	
+	<TypeTags>
+		<Row Type="ABILITY_FURINKAZAN" Tag="CLASS_LIGHT_CAVALRY"/>
+		<Row Type="ABILITY_FURINKAZAN" Tag="CLASS_HEAVY_CAVALRY"/>
+		<Row Type="ABILITY_FURINKAZAN" Tag="CLASS_RANGED_CAVALRY"/>
+		<Row Type="ABILITY_FURINKAZAN" Tag="CLASS_LIGHT_CHARIOT"/>
+		<Row Type="ABILITY_FURINKAZAN" Tag="CLASS_HEAVY_CHARIOT"/>
+		<Row Type="ABILITY_NANSHOKU" Tag="CLASS_RECON"/>
+		<Row Type="ABILITY_NANSHOKU" Tag="CLASS_ANTI_CAVALRY"/>
+		<Row Type="ABILITY_NANSHOKU" Tag="CLASS_LIGHT_CAVALRY"/>
+		<Row Type="ABILITY_NANSHOKU" Tag="CLASS_HEAVY_CAVALRY"/>
+		<Row Type="ABILITY_NANSHOKU" Tag="CLASS_MELEE"/>
+		<Row Type="ABILITY_NANSHOKU" Tag="CLASS_RANGED"/>
+		<Row Type="ABILITY_NANSHOKU" Tag="CLASS_RANGED_CAVALRY"/>
+		<Row Type="ABILITY_NANSHOKU" Tag="CLASS_HEAVY_CHARIOT"/>
+		<Row Type="ABILITY_NANSHOKU" Tag="CLASS_LIGHT_CHARIOT"/>
+		<Row Type="ABILITY_NANSHOKU" Tag="CLASS_SIEGE"/>
+	</TypeTags>
+	
+	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_FURINKAZAN" Name="LOC_ABILITY_FURINKAZAN_NAME" Description="LOC_ABILITY_FURINKAZAN_DESCRIPTION" Inactive="true"/>
+		<Row UnitAbilityType="ABILITY_NANSHOKU" Name="LOC_ABILITY_NANSHOKU_NAME" Description="LOC_ABILITY_NANSHOKU_DESCRIPTION" Inactive="true"/>
+	</UnitAbilities>
+	
+	<Traits>
+		<Row TraitType="TRAIT_CIVILIZATION_FURINKAZAN" Name="LOC_TRAIT_CIVILIZATION_FURINKAZAN_NAME" Description="LOC_TRAIT_CIVILIZATION_FURINKAZAN_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_NANSHOKU_NO_KATA" Name="LOC_TRAIT_LEADER_NANSHOKU_NO_KATA_NAME" Description="LOC_TRAIT_LEADER_NANSHOKU_NO_KATA_DESCRIPTION"/>
+	</Traits>
+	
+	<Civilizations>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" Name="LOC_CIVILIZATION_KOSHIN_NAME" Description="LOC_CIVILIZATION_KOSHIN_DESCRIPTION" Adjective="LOC_CIVILIZATION_KOSHIN_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" RandomCityNameDepth="10"/>
+	</Civilizations>
+
+	<CivilizationInfo>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" Header="LOC_CIVINFO_LOCATION" Caption="LOC_CIVINFO_KOSHIN_LOCATION" SortIndex="10" />
+		<Row CivilizationType="CIVILIZATION_KOSHIN" Header="LOC_CIVINFO_SIZE" Caption="LOC_CIVINFO_KOSHIN_SIZE" SortIndex="20" />
+		<Row CivilizationType="CIVILIZATION_KOSHIN" Header="LOC_CIVINFO_POPULATION" Caption="LOC_CIVINFO_KOSHIN_POPULATION" SortIndex="30" />
+		<Row CivilizationType="CIVILIZATION_KOSHIN" Header="LOC_CIVINFO_CAPITAL" Caption="LOC_CIVINFO_KOSHIN_CAPITAL" SortIndex="40" />
+	</CivilizationInfo>
+	
+	<CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" TraitType="TRAIT_CIVILIZATION_FURINKAZAN"/>
+	</CivilizationTraits>
+
+	<CityNames>
+		<!-- There should be around 30 city names -->
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_KOFU"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_FUKASHI"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_TAKATO"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_ZENKOJI"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_TENMOKU"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_KAWANAKAJIMA"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_INA"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_SAKU"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_KISOFUKUSHIMA"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_FUEFUKI"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_KUWABARA"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_YOSHIOKA"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_TSUMAGO"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_SHIOJIRI"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_MAGOME"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_FUJIYOSHIDA"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_TAKASHIMA"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_TOISHI"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_ANKOKUJI"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_ODAIHARA"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_MATSUO"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_KANNOMINE"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_KOJINYAMA"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_FUKUYO"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_UEHARA"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_SHIKA"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CityName="LOC_CITY_NAME_NAGAKUBO"/>
+	</CityNames>
+	
+	<CivilizationCitizenNames>
+		<!-- 10 default male names -->
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MALE_1"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MALE_2"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MALE_3"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MALE_4"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MALE_5"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MALE_6"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MALE_7"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MALE_8"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MALE_9"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MALE_10"/>
+		<!-- 10 default female names -->
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_FEMALE_1" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_FEMALE_2" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_FEMALE_3" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_FEMALE_4" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_FEMALE_5" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_FEMALE_6" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_FEMALE_7" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_FEMALE_8" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_FEMALE_9" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_FEMALE_10" Female="true"/>
+		<!-- 10 default modern male names -->
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_MALE_1" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_MALE_2" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_MALE_3" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_MALE_4" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_MALE_5" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_MALE_6" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_MALE_7" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_MALE_8" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_MALE_9" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_MALE_10" Modern="true"/>
+		<!-- 10 default modern female names -->
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_1" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_2" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_3" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_4" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_5" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_6" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_7" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_8" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_9" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" CitizenName="LOC_CITIZEN_KOSHIN_MODERN_FEMALE_10" Female="true" Modern="true"/>
+	</CivilizationCitizenNames>
+	
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_KOSHIN" LeaderType="LEADER_SHINGEN" CapitalName="LOC_CITY_NAME_KOFU"/>
+	</CivilizationLeaders>
+		
+	<Leaders>
+		<Row LeaderType="LEADER_SHINGEN" Name="LOC_LEADER_SHINGEN_NAME" InheritFrom="LEADER_DEFAULT" SceneLayers="4"/>
+	</Leaders>
+	
+	<LeaderTraits>
+		<Row LeaderType="LEADER_SHINGEN" TraitType="TRAIT_LEADER_NANSHOKU_NO_KATA"/>
+	</LeaderTraits>
+	
+	<!-- Keep QuoteAudio field blank for custom civilizations -->
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_SHINGEN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_SHINGEN_QUOTE" QuoteAudio=""/>
+	</LeaderQuotes>
+	
+	<!--<HistoricalAgendas>
+		<Row LeaderType="LEADER_SHINGEN" AgendaType="AGENDA_"/>
+	</HistoricalAgendas>-->
+	
+	<!-- Each ListType should begin with the leader's name as a prefix...i.e. MontezumaCivics -->
+	<!--<AiListTypes>
+		<Row ListType="ShingenCivics"/>
+		<Row ListType="ShingenTechs"/>
+		<Row ListType="ShingenWonders"/>
+	</AiListTypes>
+	
+	<AiLists>
+		<Row ListType="ShingenWonders" LeaderType="TRAIT_LEADER_SHINGEN" System="Buildings"/>
+		<Row ListType="ShingenCivics" LeaderType="TRAIT_LEADER_SHINGEN" System="Civics"/>
+		<Row ListType="ShingenTechs" LeaderType="TRAIT_LEADER_SHINGEN" System="Technologies"/>
+	</AiLists>-->
+	
+	<!-- Multiple Items can fall under each ListType -->
+	<!--<AiFavoredItems>
+		<Row ListType="ShingenWonders" Item="BUILDING_"/>
+		<Row ListType="ShingenCivics" Item="CIVIC_"/>
+		<Row ListType="ShingenTechs" Item="TECH_"/>
+	</AiFavoredITems>-->
+	
+	<!-- Color is tied to Leader, not Civilization -->
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_SHINGEN_PRIMARY</Type>
+			<Red>0.5</Red>
+			<Green>0</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>		
+		<Row>
+			<Type>COLOR_PLAYER_SHINGEN_SECONDARY</Type>
+			<Red>0.87</Red>
+			<Green>0.32</Green>
+			<Blue>0.09</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+	
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_SHINGEN</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_SHINGEN_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_SHINGEN_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	
+	<Modifiers>
+		<Row>
+			<ModifierId>TRAIT_GRANT_HILL_MOVEMENT_ABILITY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_GRANT_ABILITY</ModifierType>
+			<Permanent>true</Permanent>
+		</Row>
+		<Row>
+			<ModifierId>CAVALRY_IGNORE_HILLS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_IGNORE_TERRAIN_COST</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_GRANT_MINE_ADJACENCY_GOLD</ModifierId>
+			<ModifierType>MODIFIER_SINGLE_PLOT_ADJUST_PLOT_YIELDS</ModifierType>
+			<OwnerRequirementSetId>CIVILIZATION_IS_KOSHIN</OwnerRequirementSetId>
+			<SubjectRequirementSetId>PLOT_ADJACENT_TO_MINE</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_GRANT_ADJACENT_HEALING_ABILITY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_GRANT_ABILITY</ModifierType>
+			<Permanent>true</Permanent>
+		</Row>
+		<Row>
+			<ModifierId>NANSHOKU_ADJACENT_HEALING</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_HEAL_PER_TURN</ModifierType>
+			<SubjectRequirementSetId>NANSHOKU_FRIENDLY_ADJACENT_UNIT</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+	
+	<ModifierArguments>
+		<Row>
+			<ModifierId>TRAIT_GRANT_HILL_MOVEMENT_ABILITY</ModifierId>
+			<Name>AbilityType</Name>
+			<Value>ABILITY_FURINKAZAN</Value>
+		</Row>
+		<Row>
+			<ModifierId>CAVALRY_IGNORE_HILLS</ModifierId>
+			<Name>Ignore</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>CAVALRY_IGNORE_HILLS</ModifierId>
+			<Name>Type</Name>
+			<Value>HILLS</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_GRANT_MINE_ADJACENCY_GOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_GRANT_MINE_ADJACENCY_GOLD</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_GRANT_ADJACENT_HEALING_ABILITY</ModifierId>
+			<Name>AbilityType</Name>
+			<Value>ABILITY_NANSHOKU</Value>
+		</Row>
+		<Row>
+			<ModifierId>NANSHOKU_ADJACENT_HEALING</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>NANSHOKU_ADJACENT_HEALING</ModifierId>
+			<Name>Type</Name>
+			<Value>ALL</Value>
+		</Row>
+	</ModifierArguments>
+	
+	<UnitAbilityModifiers>
+		<Row UnitAbilityType="ABILITY_FURINKAZAN" ModifierId="CAVALRY_IGNORE_HILLS"/>
+		<Row UnitAbilityType="ABILITY_NANSHOKU" ModifierId="NANSHOKU_ADJACENT_HEALING"/>
+	</UnitAbilityModifiers>
+	
+	<TraitModifiers>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_FURINKAZAN</TraitType>
+			<ModifierId>TRAIT_GRANT_HILL_MOVEMENT_ABILITY</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_NANSHOKU_NO_KATA</TraitType>
+			<ModifierId>TRAIT_GRANT_ADJACENT_HEALING_ABILITY</ModifierId>
+		</Row>
+	</TraitModifiers>
+	
+	<ImprovementModifiers>
+		<Row ImprovementType="IMPROVEMENT_MINE" ModifierId="TRAIT_GRANT_MINE_ADJACENCY_GOLD"/>
+	</ImprovementModifiers>
+	
+	<RequirementSets>
+		<Row RequirementSetId="CIVILIZATION_IS_KOSHIN" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+		<Row RequirementSetId="PLOT_ADJACENT_TO_MINE" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+		<Row RequirementSetId="NANSHOKU_FRIENDLY_ADJACENT_UNIT" RequirementSetType="REQUIREMENTSET_TEST_ANY"/>
+	</RequirementSets>
+	
+	<RequirementSetRequirements>
+		<Row RequirementSetId="CIVILIZATION_IS_KOSHIN" RequirementId="REQUIRES_CIVILIZATION_KOSHIN"/>
+		<Row RequirementSetId="PLOT_ADJACENT_TO_MINE" RequirementId="REQUIRES_ADJACENT_PLOT_IS_MINE"/>
+		<Row RequirementSetId="NANSHOKU_FRIENDLY_ADJACENT_UNIT" RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_RECON"/>
+		<Row RequirementSetId="NANSHOKU_FRIENDLY_ADJACENT_UNIT" RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_ANTICAVALRY"/>
+		<Row RequirementSetId="NANSHOKU_FRIENDLY_ADJACENT_UNIT" RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_LIGHTCAVALRY"/>
+		<Row RequirementSetId="NANSHOKU_FRIENDLY_ADJACENT_UNIT" RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_HEAVYCAVALRY"/>
+		<Row RequirementSetId="NANSHOKU_FRIENDLY_ADJACENT_UNIT" RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_MELEE"/>
+		<Row RequirementSetId="NANSHOKU_FRIENDLY_ADJACENT_UNIT" RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_RANGED"/>
+		<Row RequirementSetId="NANSHOKU_FRIENDLY_ADJACENT_UNIT" RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_RANGEDCAVALRY"/>
+		<Row RequirementSetId="NANSHOKU_FRIENDLY_ADJACENT_UNIT" RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_HEAVYCHARIOT"/>
+		<Row RequirementSetId="NANSHOKU_FRIENDLY_ADJACENT_UNIT" RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_LIGHTCHARIOT"/>
+		<Row RequirementSetId="NANSHOKU_FRIENDLY_ADJACENT_UNIT" RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_SIEGE"/>
+	</RequirementSetRequirements>
+	
+	<Requirements>
+		<Row RequirementId="REQUIRES_CIVILIZATION_KOSHIN" RequirementType="REQUIREMENT_CIV_TYPE_MATCHES"/>
+		<Row RequirementId="REQUIRES_ADJACENT_PLOT_IS_MINE" RequirementType="REQUIREMENT_PLOT_ADJACENT_IMPROVEMENT_TYPE_MATCHES"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_RECON" RequirementType="REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TAG_MATCHES"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_ANTICAVALRY" RequirementType="REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TAG_MATCHES"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_LIGHTCAVALRY" RequirementType="REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TAG_MATCHES"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_HEAVYCAVALRY" RequirementType="REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TAG_MATCHES"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_MELEE" RequirementType="REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TAG_MATCHES"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_RANGED" RequirementType="REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TAG_MATCHES"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_RANGEDCAVALRY" RequirementType="REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TAG_MATCHES"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_HEAVYCHARIOT" RequirementType="REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TAG_MATCHES"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_LIGHTCHARIOT" RequirementType="REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TAG_MATCHES"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_SIEGE" RequirementType="REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TAG_MATCHES"/>
+	</Requirements>
+	
+	<RequirementArguments>
+		<Row RequirementId="REQUIRES_CIVILIZATION_KOSHIN" Name="CivilizationType" Value="CIVILIZATION_KOSHIN"/>
+		<Row RequirementId="REQUIRES_ADJACENT_PLOT_IS_MINE" Name="ImprovementType" Value="IMPROVEMENT_MINE"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_RECON" Name="Tag" Value="CLASS_RECON"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_ANTICAVALRY" Name="Tag" Value="CLASS_ANTI_CAVALRY"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_LIGHTCAVALRY" Name="Tag" Value="CLASS_LIGHT_CAVALRY"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_HEAVYCAVALRY" Name="Tag" Value="CLASS_HEAVY_CAVALRY"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_MELEE" Name="Tag" Value="CLASS_MELEE"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_RANGED" Name="Tag" Value="CLASS_RANGED"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_RANGEDCAVALRY" Name="Tag" Value="CLASS_RANGED_CAVALRY"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_HEAVYCHARIOT" Name="Tag" Value="CLASS_HEAVY_CHARIOT"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_LIGHTCHARIOT" Name="Tag" Value="CLASS_LIGHT_CHARIOT"/>
+		<Row RequirementId="REQUIRES_ADJACENT_UNIT_IS_FRIENDLY_SIEGE" Name="Tag" Value="CLASS_SIEGE"/>
+	</RequirementArguments>
+	
+</GameInfo>

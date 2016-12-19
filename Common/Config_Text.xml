@@ -1,0 +1,61 @@
+<GameData>
+	<LocalizedText>
+		<!--Civilization Tags-->
+		<Replace Tag="LOC_CIVILIZATION_KOSHIN_NAME" Language="en_US">
+			<Text>Koshin</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KOSHIN_DESCRIPTION" Language="en_US">
+			<Text>Koshin Kingdom</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KOSHIN_ADJECTIVE" Language="en_US">
+			<Text>Koshin</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_KOSHIN_LOCATION" Language="en_US">
+			<Text>Japan</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_KOSHIN_SIZE" Language="en_US">
+			<Text>PLACEHOLDER</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_KOSHIN_POPULATION" Language="en_US">
+			<Text>PLACEHOLDER</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_KOSHIN_CAPITAL" Language="en_US">
+			<Text>Kofu</Text>
+		</Replace>
+		
+		<!--Leader Tags-->
+		<Replace Tag="LOC_LEADER_SHINGEN_NAME" Language="en_US">
+			<Text>Takeda Shingen</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_SHINGEN" Language="en_US">
+			<Text>The great mountains of your home beckon to you, Lord Harunobu, ruler of the proud Takeda. Your people may be rightly known for their skill when in the saddle, but every man in Japan’s heartland fears the Takeda for their unarmed lethality and effective domain control in equal measure. Take on the mantle of Shingen, O great daimyo, and be as the wind, as a forest, as fire, and as a mountain.</Text>
+		</Replace>
+		
+		<!--Trait Tags-->
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_KOSHIN_NAME" Language="en_US">
+			<Text>Furinkazan</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_KOSHIN_DESCRIPTION" Language="en_US">
+			<Text>Cavalry ignores Hill terrain cost and Mine improvements provide +1 [ICON_Gold] Gold per adjacent Mine.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SHINGEN_NAME" Language="en_US">
+			<Text>Nanshoku no Kata</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SHINGEN_DESCRIPTION" Language="en_US">
+			<Text>Units adjacent to other Takeda units heal 5 points per turn per adjacent military unit and Great General.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_AKAZONAE_NAME" Language="en_US">
+			<Text>Akazonae</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_AKAZONAE_DESCRIPTION" Language="en_US">
+			<Text>PLACEHOLDER</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_NOROSHI_NAME" Language="en_US">
+			<Text>Noroshi</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_NOROSHI_DESCRIPTION" Language="en_US">
+			<Text>PLACEHOLDER</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

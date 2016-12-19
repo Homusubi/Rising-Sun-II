@@ -1,0 +1,265 @@
+<GameData>
+	<LocalizedText>
+	
+		<!--Civilization Tags-->
+		<Replace Tag="LOC_CIVILIZATION__NAME" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION__DESCRIPTION" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION__ADJECTIVE" Language="en_US">
+			<Text></Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO__LOCATION" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO__SIZE" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO__POPULATION" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO__CAPITAL" Language="en_US">
+			<Text></Text>
+		</Replace>
+		
+		<!--Leader Tags-->
+		<Replace Tag="LOC_LEADER__NAME" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER__QUOTE" Language="en_US">
+			<Text></Text>
+		</Replace>
+		
+		<!--Trait Tags-->
+		<Replace Tag="LOC_TRAIT_CIVILIZATION__NAME" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION__DESCRIPTION" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER__NAME" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER__DESCRIPTION" Language="en_US">
+			<Text></Text>
+		</Replace>
+				
+		<!--City Tags-->
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_" Language="en_US">
+			<Text></Text>
+		</Replace>
+		
+		<!--Citizen Tags-->
+		<Replace Tag="LOC_CITIZEN__MALE_1" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MALE_2" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MALE_3" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MALE_4" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MALE_5" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MALE_6" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MALE_7" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MALE_8" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MALE_9" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MALE_10" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__FEMALE_1" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__FEMALE_2" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__FEMALE_3" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__FEMALE_4" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__FEMALE_5" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__FEMALE_6" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__FEMALE_7" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__FEMALE_8" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__FEMALE_9" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__FEMALE_10" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_MALE_1" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_MALE_2" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_MALE_3" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_MALE_4" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_MALE_5" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_MALE_6" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_MALE_7" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_MALE_8" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_MALE_9" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_MALE_10" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_FEMALE_1" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_FEMALE_2" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_FEMALE_3" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_FEMALE_4" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_FEMALE_5" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_FEMALE_6" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_FEMALE_7" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_FEMALE_8" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_FEMALE_9" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN__MODERN_FEMALE_10" Language="en_US">
+			<Text></Text>
+		</Replace>
+	
+	</LocalizedText>
+</GameData>
