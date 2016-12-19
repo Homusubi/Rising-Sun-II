@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with Notepad++ by thecrazyscotsman -->
+<Mod id="223c3830-5038-4dde-92b2-a8ffe799d98d" version="1">
+	<Properties>
+		<Name>LOC_RISINGSUN_NAME</Name>
+		<Stability>Alpha</Stability>
+		<Teaser>LOC_RISINGSUN_TEASER</Teaser>
+		<Description>LOC_RISINGSUN_DESCRIPTION</Description>
+		<Authors>LOC_RISINGSUN_AUTHORS</Authors>
+		<SpecialThanks>LOC_RISINGSUN_THANKS</SpecialThanks>
+	</Properties>
+	<Dependencies />
+	<References />
+	<Blocks />
+
+	<Settings>
+		<Custom id="RISINGSUN_SETTING">
+			<Items>
+				<File>Common/Player_ConfigData.xml</File>
+			</Items>
+		</Custom>
+		<LocalizedText id="RISINGSUN_SETTING_TEXT">
+			<Items>
+				<File>Common/Config_Text.xml</File>
+			</Items>
+		</LocalizedText>
+	</Settings>
+	
+	<Components>
+		<UpdateDatabase id="RISINGSUN_COMPONENT">
+			<Items>
+				<File>Koshin/Koshin_CivilizationData.xml</File>
+			</Items>
+		</UpdateDatabase>
+		<LocalizedText id="RISINGSUN_COMPONENT_TEXT">
+			<Items>
+				<File>Koshin/Koshin_Text.xml</File>
+			</Items>
+		</LocalizedText>
+	</Components>	
+	
+	<LocalizedText>
+		<Text id="LOC_RISINGSUN_NAME">
+			<en_US>Rising Sun II 0.1</en_US>
+		</Text>
+		<Text id="LOC_RISINGSUN_AUTHORS">
+			<en_US>Homusubi and thecrazyscotsman</en_US>
+		</Text>
+		<Text id="LOC_RISINGSUN_THANKS">
+			<en_US></en_US>
+		</Text>
+		<Text id="LOC_RISINGSUN_TEASER">
+			<en_US>Rising Sun II brings back a completely revamped version of the popular Japan split from Civ V .</en_US>		
+		</Text>
+		<Text id="LOC_RISINGSUN_DESCRIPTION">
+			<en_US></en_US>		
+		</Text>
+	</LocalizedText>	
+	
+	<Files>
+		<File>Common/Player_ConfigData.xml</File>
+		<File>Common/Config_Text.xml</File>
+		<File>Koshin/Koshin_CivilizationData.xml</File>
+		<File>Koshin/Koshin_Text.xml</File>
+	</Files>
+</Mod>

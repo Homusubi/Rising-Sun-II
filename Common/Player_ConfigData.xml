@@ -1,0 +1,41 @@
+<GameInfo>
+	<!-- This is the information which shows up on the menu and loading screens -->
+	<Players>
+		<Row 
+			CivilizationType="CIVILIZATION_KOSHIN" 
+			LeaderType="LEADER_SHINGEN" 
+			CivilizationName="LOC_CIVILIZATION_KOSHIN_NAME" 
+			CivilizationIcon="ICON_CIVILIZATION_UNKNOWN" 
+			LeaderName="LOC_LEADER_SHINGEN_NAME" 
+			LeaderIcon="ICON_LEADER_DEFAULT" 
+			CivilizationAbilityName="LOC_TRAIT_CIVILIZATION_KOSHIN_NAME" 
+			CivilizationAbilityDescription="LOC_TRAIT_CIVILIZATION_KOSHIN_DESCRIPTION" 
+			CivilizationAbilityIcon="ICON_CIVILIZATION_UNKNOWN" 
+			LeaderAbilityName="LOC_TRAIT_LEADER_SHINGEN_NAME" 
+			LeaderAbilityDescription="LOC_TRAIT_LEADER_SHINGEN_DESCRIPTION" 
+			LeaderAbilityIcon="ICON_LEADER_DEFAULT"
+		/>
+	</Players>
+	
+	<!-- One of these rows should be created for each unique item -->
+	<!--<PlayerItems>
+		<Row 
+			CivilizationType="CIVILIZATION_" 
+			LeaderType="LEADER_" 
+			Type="UNIT_" 
+			Icon="ICON_UNIT_" 
+			Name="LOC_UNIT__NAME" 
+			Description="LOC_UNIT__DESCRIPTION" 
+			SortIndex="10" 
+		/>
+		<Row 
+			CivilizationType="CIVILIZATION_" 
+			LeaderType="LEADER_" 
+			Type="BUILDING_" 
+			Icon="ICON_BUILDING_" 
+			Name="LOC_BUILDING__NAME" 
+			Description="LOC_BUILDING__DESCRIPTION" 
+			SortIndex="20" 
+		/>
+	</PlayerItems>-->
+</GameInfo>

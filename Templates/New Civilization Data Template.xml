@@ -1,0 +1,152 @@
+<!-- NEW CIVILIZATION DATA TEMPLATE -->
+<!-- created 18 Dec 2016 by thecrazyscotsman -->
+
+<GameInfo>
+	<Types>
+		<Row Type="CIVILIZATION_" Kind="KIND_CIVILIZATION"/>
+		<Row Type="LEADER_" Kind="KIND_LEADER"/>
+	</Types>
+	
+	<!-- Unique units, buildings, and districts are attached to traits here, but will be defined in their own relevant files -->
+	<!-- Modifiers will be defined in their own file -->
+	<Traits>
+		<Row TraitType="TRAIT_CIVILIZATION_" Name="LOC_TRAIT_CIVILIZATION__NAME" Description="LOC_TRAIT_CIVILIZATION__DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_" Name="LOC_TRAIT_LEADER__NAME" Description="LOC_TRAIT_LEADER__DESCRIPTION"/>
+	</Traits>
+
+	<Civilizations>
+		<Row CivilizationType="CIVILIZATION_" Name="LOC_CIVILIZATION__NAME" Description="LOC_CIVILIZATION__DESCRIPTION" Adjective="LOC_CIVILIZATION__ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" RandomCityNameDepth="10"/>
+	</Civilizations>
+
+	<CivilizationInfo>
+		<Row CivilizationType="CIVILIZATION_" Header="LOC_CIVINFO_LOCATION" Caption="LOC_CIVINFO__LOCATION" SortIndex="10" />
+		<Row CivilizationType="CIVILIZATION_" Header="LOC_CIVINFO_SIZE" Caption="LOC_CIVINFO__SIZE" SortIndex="20" />
+		<Row CivilizationType="CIVILIZATION_" Header="LOC_CIVINFO_POPULATION" Caption="LOC_CIVINFO__POPULATION" SortIndex="30" />
+		<Row CivilizationType="CIVILIZATION_" Header="LOC_CIVINFO_CAPITAL" Caption="LOC_CIVINFO__CAPITAL" SortIndex="40" />
+	</CivilizationInfo>
+	
+	<CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_" TraitType="TRAIT_CIVILIZATION_"/>
+	</CivilizationTraits>
+
+	<CityNames>
+		<!-- There should be around 30 city names -->
+		<Row CivilizationType="" CityName="LOC_CITY_NAME_"/>
+	</CityNames>
+	
+	<CivilizationCitizenNames>
+		<!-- 10 default male names -->
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MALE_1"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MALE_2"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MALE_3"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MALE_4"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MALE_5"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MALE_6"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MALE_7"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MALE_8"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MALE_9"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MALE_10"/>
+		<!-- 10 default female names -->
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__FEMALE_1" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__FEMALE_2" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__FEMALE_3" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__FEMALE_4" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__FEMALE_5" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__FEMALE_6" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__FEMALE_7" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__FEMALE_8" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__FEMALE_9" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__FEMALE_10" Female="true"/>
+		<!-- 10 default modern male names -->
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_MALE_1" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_MALE_2" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_MALE_3" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_MALE_4" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_MALE_5" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_MALE_6" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_MALE_7" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_MALE_8" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_MALE_9" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_MALE_10" Modern="true"/>
+		<!-- 10 default modern female names -->
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_FEMALE_1" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_FEMALE_2" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_FEMALE_3" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_FEMALE_4" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_FEMALE_5" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_FEMALE_6" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_FEMALE_7" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_FEMALE_8" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_FEMALE_9" Female="true" Modern="true"/>
+		<Row CivilizationType="CIVILIZATION_" CitizenName="LOC_CITIZEN__MODERN_FEMALE_10" Female="true" Modern="true"/>
+	</CivilizationCitizenNames>
+	
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_" LeaderType="LEADER_" CapitalName="LOC_CITY_NAME_"/>
+	</CivilizationLeaders>
+		
+	<Leaders>
+		<Row LeaderType="LEADER_" Name="LOC_LEADER__NAME" InheritFrom="LEADER_DEFAULT" SceneLayers="4"/>
+	</Leaders>
+	
+	<LeaderTraits>
+		<Row LeaderType="LEADER_" TraitType="TRAIT_LEADER_"/>
+	</LeaderTraits>
+	
+	<!-- Keep QuoteAudio field blank for custom civilizations -->
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER__QUOTE" QuoteAudio=""/>
+	</LeaderQuotes>
+	
+	<HistoricalAgendas>
+		<Row LeaderType="LEADER_" AgendaType="AGENDA_"/>
+	</HistoricalAgendas>
+	
+	<!-- Each ListType should begin with the leader's name as a prefix...i.e. MontezumaCivics -->
+	<AiListTypes>
+		<Row ListType="Civics"/>
+		<Row ListType="Techs"/>
+		<Row ListType="Wonders"/>
+	</AiListTypes>
+	
+	<AiLists>
+		<Row ListType="Wonders" LeaderType="TRAIT_LEADER_" System="Buildings"/>
+		<Row ListType="Civics" LeaderType="TRAIT_LEADER_" System="Civics"/>
+		<Row ListType="Techs" LeaderType="TRAIT_LEADER_" System="Technologies"/>
+	</AiLists>
+	
+	<!-- Multiple Items can fall under each ListType -->
+	<AiFavoredItems>
+		<Row ListType="Wonders" Item="BUILDING_"/>
+		<Row ListType="Civics" Item="CIVIC_"/>
+		<Row ListType="Techs" Item="TECH_"/>
+	</AiFavoredITems>
+	
+	<!-- Color is tied to Leader, not Civilization -->
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER__SECONDARY</Type>
+			<Red>0</Red>
+			<Green>0</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER__PRIMARY</Type>
+			<Red>0</Red>
+			<Green>0</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+	
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER__PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER__SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameInfo>

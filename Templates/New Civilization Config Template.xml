@@ -1,0 +1,44 @@
+<!-- NEW CIVILIZATION CONFIG TEMPLATE -->
+<!-- created 18 Dec 2016 by thecrazyscotsman -->
+
+<GameInfo>
+	<!-- This is the information which shows up on the menu and loading screens -->
+	<Players>
+		<Row 
+			CivilizationType="CIVILIZATION_" 
+			LeaderType="LEADER_" 
+			CivilizationName="LOC_CIVILIZATION__NAME" 
+			CivilizationIcon="ICON_CIVILIZATION_" 
+			LeaderName="LOC_LEADER__NAME" 
+			LeaderIcon="ICON_LEADER_" 
+			CivilizationAbilityName="LOC_TRAIT_CIVILIZATION__NAME" 
+			CivilizationAbilityDescription="LOC_TRAIT_CIVILIZATION__DESCRIPTION" 
+			CivilizationAbilityIcon="ICON_CIVILIZATION_" 
+			LeaderAbilityName="LOC_TRAIT_LEADER__NAME" 
+			LeaderAbilityDescription="LOC_TRAIT_LEADER__DESCRIPTION" 
+			LeaderAbilityIcon="ICON_LEADER_"
+		/>
+	</Players>
+	
+	<!-- One of these rows should be created for each unique item -->
+	<PlayerItems>
+		<Row 
+			CivilizationType="CIVILIZATION_" 
+			LeaderType="LEADER_" 
+			Type="UNIT_" 
+			Icon="ICON_UNIT_" 
+			Name="LOC_UNIT__NAME" 
+			Description="LOC_UNIT__DESCRIPTION" 
+			SortIndex="10" 
+		/>
+		<Row 
+			CivilizationType="CIVILIZATION_" 
+			LeaderType="LEADER_" 
+			Type="BUILDING_" 
+			Icon="ICON_BUILDING_" 
+			Name="LOC_BUILDING__NAME" 
+			Description="LOC_BUILDING__DESCRIPTION" 
+			SortIndex="20" 
+		/>
+	</PlayerItems>
+</GameInfo>
