@@ -5,15 +5,15 @@
 			CivilizationType="CIVILIZATION_KOSHIN" 
 			LeaderType="LEADER_SHINGEN" 
 			CivilizationName="LOC_CIVILIZATION_KOSHIN_NAME" 
-			CivilizationIcon="ICON_CIVILIZATION_UNKNOWN" 
+			CivilizationIcon="ICON_CIVILIZATION_KOSHIN" 
 			LeaderName="LOC_LEADER_SHINGEN_NAME" 
-			LeaderIcon="ICON_LEADER_DEFAULT" 
+			LeaderIcon="ICON_LEADER_SHINGEN" 
 			CivilizationAbilityName="LOC_TRAIT_CIVILIZATION_KOSHIN_NAME" 
 			CivilizationAbilityDescription="LOC_TRAIT_CIVILIZATION_KOSHIN_DESCRIPTION" 
-			CivilizationAbilityIcon="ICON_CIVILIZATION_UNKNOWN" 
+			CivilizationAbilityIcon="ICON_CIVILIZATION_KOSHIN" 
 			LeaderAbilityName="LOC_TRAIT_LEADER_SHINGEN_NAME" 
 			LeaderAbilityDescription="LOC_TRAIT_LEADER_SHINGEN_DESCRIPTION" 
-			LeaderAbilityIcon="ICON_LEADER_DEFAULT"
+			LeaderAbilityIcon="ICON_LEADER_SHINGEN"
 		/>
 	</Players>
 	
