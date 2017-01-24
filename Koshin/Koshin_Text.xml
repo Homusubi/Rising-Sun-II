@@ -75,6 +75,18 @@
 		<Replace Tag="LOC_ABILITY_FURINKAZAN_DESCRIPTION" Language="en_US">
 			<Text>Ignore movement penalty from Hills.</Text>
 		</Replace>
+		<Replace Tag="LOC_ABILITY_NOROSHI_BONUS_SIGHT_NAME" Language="en_US">
+			<Text>Bonus Sight</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NOROSHI_BONUS_SIGHT_DESCRIPTION" Language="en_US">
+			<Text>+1 sight when garrisoned on a Noroshi improvement.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NOROSHI_REVEAL_STEALTH_NAME" Language="en_US">
+			<Text>Reveal Stealthed Units</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NOROSHI_REVEAL_STEALTH_DESCRIPTION" Language="en_US">
+			<Text>See hidden units when garrisoned on a Noroshi improvement.</Text>
+		</Replace>
 		
 		<!--City Tags-->
 		<Replace Tag="LOC_CITY_NAME_KOFU" Language="en_US">

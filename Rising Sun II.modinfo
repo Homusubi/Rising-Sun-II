@@ -19,6 +19,12 @@
 				<File>Common/Player_ConfigData.xml</File>
 			</Items>
 		</Custom>
+		<Icons id="RISINGSUN_CONFIG_ICONS">
+			<Items>
+				<File>Common/Icons_RisingSun_Civilizations.xml</File>
+				<File>Common/Icons_RisingSun_Leaders.xml</File>
+			</Items>
+		</Icons>
 		<LocalizedText id="RISINGSUN_SETTING_TEXT">
 			<Items>
 				<File>Common/Config_Text.xml</File>
@@ -32,6 +38,32 @@
 				<File>Koshin/Koshin_CivilizationData.xml</File>
 			</Items>
 		</UpdateDatabase>
+		<Icons id="RISINGSUN_ICONS">
+			<Items>
+				<File>Common/Icons_RisingSun_Civilizations.xml</File>
+				<File>Common/Icons_RisingSun_Leaders.xml</File>
+			</Items>
+		</Icons>
+		<ImportFiles id="RISINGSUN_IMPORT">
+			<Items>
+				<File>Art/Icons/Koshin_22.dds</File>
+				<File>Art/Icons/Koshin_30.dds</File>
+				<File>Art/Icons/Koshin_36.dds</File>
+				<File>Art/Icons/Koshin_45.dds</File>
+				<File>Art/Icons/Koshin_48.dds</File>
+				<File>Art/Icons/Koshin_50.dds</File>
+				<File>Art/Icons/Koshin_64.dds</File>
+				<File>Art/Icons/Koshin_80.dds</File>
+				<File>Art/Icons/Koshin_256.dds</File>
+				<File>Art/Icons/Shingen_32.dds</File>
+				<File>Art/Icons/Shingen_45.dds</File>
+				<File>Art/Icons/Shingen_50.dds</File>
+				<File>Art/Icons/Shingen_55.dds</File>
+				<File>Art/Icons/Shingen_64.dds</File>
+				<File>Art/Icons/Shingen_80.dds</File>
+				<File>Art/Icons/Shingen_256.dds</File>
+			</Items>
+		</ImportFiles>
 		<LocalizedText id="RISINGSUN_COMPONENT_TEXT">
 			<Items>
 				<File>Koshin/Koshin_Text.xml</File>
@@ -60,7 +92,25 @@
 	<Files>
 		<File>Common/Player_ConfigData.xml</File>
 		<File>Common/Config_Text.xml</File>
+		<File>Common/Icons_RisingSun_Civilizations.xml</File>
+		<File>Common/Icons_RisingSun_Leaders.xml</File>
 		<File>Koshin/Koshin_CivilizationData.xml</File>
 		<File>Koshin/Koshin_Text.xml</File>
+		<File>Art/Icons/Koshin_22.dds</File>
+		<File>Art/Icons/Koshin_30.dds</File>
+		<File>Art/Icons/Koshin_36.dds</File>
+		<File>Art/Icons/Koshin_45.dds</File>
+		<File>Art/Icons/Koshin_48.dds</File>
+		<File>Art/Icons/Koshin_50.dds</File>
+		<File>Art/Icons/Koshin_64.dds</File>
+		<File>Art/Icons/Koshin_80.dds</File>
+		<File>Art/Icons/Koshin_256.dds</File>
+		<File>Art/Icons/Shingen_32.dds</File>
+		<File>Art/Icons/Shingen_45.dds</File>
+		<File>Art/Icons/Shingen_50.dds</File>
+		<File>Art/Icons/Shingen_55.dds</File>
+		<File>Art/Icons/Shingen_64.dds</File>
+		<File>Art/Icons/Shingen_80.dds</File>
+		<File>Art/Icons/Shingen_256.dds</File>
 	</Files>
 </Mod>
